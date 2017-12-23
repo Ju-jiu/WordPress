@@ -31,7 +31,7 @@
 								'link_before'    => '<span class="screen-reader-text">',
 								'link_after'     => '</span>' . twentyseventeen_get_svg( array( 'icon' => 'chain' ) ),
 							) );
-						*/?>
+						*/?>    <!--暂时去掉相关社交网站链接-->
 					</nav><!-- .social-navigation -->
 				<?php endif;
 
